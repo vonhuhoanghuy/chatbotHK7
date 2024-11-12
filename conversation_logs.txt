@@ -1,0 +1,66 @@
+2024-10-30 14:04:47 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-10-30 14:05:04 | User: tôi muốn mua laptop | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-10-30 14:06:03 | User: cho tôi thông tin về Macbook M1 2020 | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-10-30 14:06:10 | User: cho tôi thông tin về Macbook | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-10-30 14:36:34 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-10-30 14:39:05 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-10-30 14:59:39 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-10-30 15:12:44 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-10-30 15:13:12 | User: tôi sự gặp cố với laptop | Bot: Nếu laptop không khởi động được, bạn nên kiểm tra dây nguồn và kết nối. | Intent: technical_support
+2024-11-06 07:48:47 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-06 07:50:55 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:02:12 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:02:21 | User: tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-06 08:19:22 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:21:30 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:21:37 | User: tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-06 08:22:41 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:22:49 | User: tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-06 08:25:20 | User: sddsff | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:25:21 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:22 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:22 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:24 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:27 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:28 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:28 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:29 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:29 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:32 | User: aaaaaa | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:32 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:33 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:33 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:34 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:25:34 | User: â | Bot: Xin chào! | Intent: greeting
+2024-11-06 08:25:34 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:25:35 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:25:35 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-06 08:25:35 | User: â | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 08:25:36 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-06 09:13:45 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-06 10:08:24 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-06 10:40:06 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-06 10:40:10 | User: Hello hello. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 10:40:21 | User: Tâm ngu. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 10:40:41 | User: Ông tuấn ngu. | Bot: Xin chào! | Intent: greeting
+2024-11-06 10:41:18 | User: 1 + 1 bằng 2. | Bot: Xin chào! | Intent: greeting
+2024-11-06 10:41:35 | User: Đúng lúc đó. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 10:41:46 | User: Bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng bằng. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 10:42:59 | User: 1 * 3 * 4 nhân a. | Bot: Xin chào! | Intent: greeting
+2024-11-06 10:43:15 | User: Người dì các kiểu luôn cộng trừ nhân chia. | Bot: Chào bạn! | Intent: greeting
+2024-11-06 10:43:42 | User: Tâm ngủ. | Bot: Xin chào! | Intent: greeting
+2024-11-06 10:44:25 | User: How you today? | Bot: Rất vui được giúp bạn! | Intent: thanks
+2024-11-06 14:36:56 | User: Hello. | Bot: Chào bạn! | Intent: greeting
+2024-11-06 14:37:11 | User: Tôi muốn mua laptop. | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-06 14:37:24 | User: Laptop nào ngon nhất? | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-11-06 14:41:59 | User: Khi ngu. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 14:42:04 | User: Khiêm ngủ. | Bot: Xin chào! | Intent: greeting
+2024-11-06 14:42:12 | User: Chính xác không? Anh huy ngồi vải. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-06 14:42:26 | User: Anh hưng ngờ quá đà nẳng ngoài nó ra thì ngồi đâu mày nói đi. | Bot: Tạm biệt! Hẹn gặp lại bạn sau! | Intent: goodbye
+2024-11-06 14:42:54 | User: Khi nhìn như con. | Bot: Chào bạn! | Intent: greeting
+2024-11-06 14:43:03 | User: Coi muốn mua laptop. | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-06 14:49:19 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-06 14:49:43 | User: tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-06 14:56:13 | User: chơi game | Bot: Chào bạn! | Intent: greeting
+2024-11-12 12:23:24 | User: hello | Bot: Chào bạn! | Intent: greeting
+2024-11-12 12:23:30 | User: tôi muốn mua laptop | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
