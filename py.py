@@ -26,6 +26,7 @@ try:
     nltk.download('punkt')
     nltk.download('wordnet')
     nltk.download('omw-1.4')
+    nltk.download('punkt_tab')
 
     # Khởi tạo lemmatizer
     lemmatizer = WordNetLemmatizer()
@@ -147,7 +148,7 @@ def get_bot_response():
         return jsonify({
             "response": "Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau."
         }), 500
-# input output ,
+
 
 # Tính năng phụ: API endpoint để lấy thống kê
 @app.route('/stats', methods=['GET'])

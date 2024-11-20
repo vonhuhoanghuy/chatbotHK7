@@ -64,3 +64,8 @@
 2024-11-06 14:56:13 | User: chơi game | Bot: Chào bạn! | Intent: greeting
 2024-11-12 12:23:24 | User: hello | Bot: Chào bạn! | Intent: greeting
 2024-11-12 12:23:30 | User: tôi muốn mua laptop | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-12 13:59:22 | User: Hello hello. | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-12 14:01:51 | User: Hóng mù. | Bot: Chào bạn! | Intent: greeting
+2024-11-12 14:01:57 | User: Không phải anh tuấn *** ***. | Bot: Xin chào! | Intent: greeting
+2024-11-21 01:42:43 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-21 01:42:52 | User: toi muon mua laptop | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
