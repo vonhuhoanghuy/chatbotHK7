@@ -308,3 +308,22 @@
 2024-11-28 03:48:16 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
 2024-11-28 03:48:18 | User: Dell | Bot: Laptop Dell có nhiều sự lựa chọn cho bạn từ dòng Inspiron cho công việc và học tập, đến Alienware và XPS dành cho game thủ và người dùng cao cấp. | Intent: laptop_dell
 2024-11-28 18:31:30 | User: hello | Bot: Chào bạn! | Intent: chaohoi
+2024-11-28 21:57:14 | User: xin | Bot: Chào bạn! | Intent: chaohoi
+2024-11-28 21:57:15 | User: xin | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-28 21:57:15 | User: Xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-28 21:57:15 | User: Xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-28 21:57:20 | User: tôi | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-28 21:57:20 | User: Tôi muốn | Bot: Chào bạn! | Intent: chaohoi
+2024-11-28 21:57:20 | User: Tôi muốn mua | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-28 21:57:20 | User: muốn mua | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-28 21:57:20 | User: mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-28 21:57:21 | User: laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-28 21:57:21 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-28 22:01:03 | User: Xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-28 22:01:08 | User: Tôi muốn mua laptop | Bot: Có rất nhiều dòng laptop tốt như Dell, HP, Lenovo, Asus và MSI, tùy thuộc vào nhu cầu sử dụng của bạn. | Intent: laptop
+2024-11-28 22:01:13 | User: really | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-28 22:01:17 | User: Mày ngu quá | Bot: Chào bạn! | Intent: chaohoi
+2024-11-28 22:01:35 | User: Xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-28 22:01:40 | User: Tôi muốn mua laptop | Bot: Các dòng laptop như Dell, HP, Asus đều có thiết kế đẹp mắt, hiệu suất ổn định và phù hợp với công việc văn phòng hoặc học tập. | Intent: laptop
+2024-11-28 22:06:49 | User: Hello | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-28 22:07:07 | User: Hello Hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi

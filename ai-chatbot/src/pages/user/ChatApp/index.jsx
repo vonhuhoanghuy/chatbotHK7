@@ -1,16 +1,24 @@
-import React, { useContext, useState, useEffect } from "react";
+import React, { useContext, useState, useEffect, useRef } from "react";
 import "./styleChatApp.scss";
-import { UserContext } from "../../../middleware/UserContext";
+import { BiSolidMicrophone } from "react-icons/bi";
 
+import { UserContext } from "../../../middleware/UserContext";
+import VoiceChat from "../VoiceChat/index.js";
 const ChatApp = ({ chat, initialMessages }) => {
   const { user } = useContext(UserContext);
   const nameUser = user?.username;
 
   const [messages, setMessages] = useState([
-    { id: 1, text: `👋 Xin chào ${nameUser} ! Tôi có thể giúp gì cho bạn?` }
+    {
+      id: 1,
+      text: `👋 Xin chào ${nameUser} ! Tôi có thể giúp gì cho bạn?`,
+      isUser: false
+    }
   ]);
   const [inputValue, setInputValue] = useState("");
   const [isTyping, setIsTyping] = useState(false);
+  const statusSpanRef = useRef(null);
+  const voiceChatRef = useRef(null);
 
   useEffect(() => {
     if (initialMessages.length > 0) {
@@ -31,6 +39,18 @@ const ChatApp = ({ chat, initialMessages }) => {
       ]);
     }
   }, [initialMessages, nameUser]);
+
+  useEffect(() => {
+    voiceChatRef.current = new VoiceChat(
+      handleVoiceInput,
+      statusSpanRef.current
+    );
+  }, []);
+
+  const handleVoiceInput = (text) => {
+    setInputValue(text);
+    sendMessage(text);
+  };
 
   const sendMessage = async (message) => {
     if (!message.trim()) return;
@@ -89,23 +109,25 @@ const ChatApp = ({ chat, initialMessages }) => {
     if (e.key === "Enter") sendMessage(inputValue);
   };
 
+  const startVoiceRecognition = () => {
+    voiceChatRef.current?.startRecording();
+  };
+
   return (
     <div className="chat-app">
       <div className="chat-main">
         <div className="chat-container">
           <div className="chat-content">
-            {messages.map((message, key) => {
-              return (
-                <div
-                  key={key}
-                  className={`chat-message ${
-                    message.isUser ? "user-message" : "bot-message"
-                  }`}
-                >
-                  {message.text}
-                </div>
-              );
-            })}
+            {messages.map((message, key) => (
+              <div
+                key={key}
+                className={`chat-message ${
+                  message.isUser ? "user-message" : "bot-message"
+                }`}
+              >
+                {message.text}
+              </div>
+            ))}
             {isTyping && (
               <div className="chat-message bot-message">...Đang trả lời</div>
             )}
@@ -125,7 +147,11 @@ const ChatApp = ({ chat, initialMessages }) => {
             >
               Gửi
             </button>
+            <button onClick={startVoiceRecognition} className="chat-mic-button">
+              <BiSolidMicrophone />
+            </button>
           </div>
+          <span ref={statusSpanRef} className="recording-status"></span>
         </div>
       </div>
     </div>

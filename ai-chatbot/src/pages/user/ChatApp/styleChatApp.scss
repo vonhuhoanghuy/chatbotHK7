@@ -114,6 +114,21 @@
             background-color: #4500b5;
           }
         }
+        .chat-mic-button {
+          border: none;
+          color: black;
+          padding: 10px 15px;
+          border-radius: 50%;
+          cursor: pointer;
+          margin-left: 5px;
+
+          svg {
+            font-size: 28px;
+          }
+          &:hover {
+            color: #d32f2f;
+          }
+        }
       }
     }
   }
