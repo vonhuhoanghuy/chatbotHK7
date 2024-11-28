@@ -69,3 +69,242 @@
 2024-11-12 14:01:57 | User: Không phải anh tuấn *** ***. | Bot: Xin chào! | Intent: greeting
 2024-11-21 01:42:43 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
 2024-11-21 01:42:52 | User: toi muon mua laptop | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-11-24 18:54:57 | User: xin chaof | Bot: Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể diễn đạt lại không? | Intent: unknown
+2024-11-24 18:55:03 | User: xin chào | Bot: Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể diễn đạt lại không? | Intent: unknown
+2024-11-24 18:55:09 | User: hi | Bot: Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể diễn đạt lại không? | Intent: unknown
+2024-11-24 18:58:13 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-24 18:58:22 | User: tôi muốn mua laptop | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-24 19:00:56 | User: hi | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:02:22 | User: 123 | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:03:03 | User: 12 | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:05:01 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:28:58 | User: Xin chào | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:31:52 | User: Tôi muốn mua laptop thì phải làm sao | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-11-24 19:33:27 | User: Xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:33:38 | User: Tôi muốn mua laptop thì có cần tiền không? | Bot: Bạn nên kiểm tra bảo hành của sản phẩm trước khi mang đi sửa. | Intent: repair_service
+2024-11-24 19:37:39 | User: hello bạn | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:37:45 | User: Bạn khoẻ không | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:38:05 | User: xin chào | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:39:46 | User: bạn là ai | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:39:48 | User: Chào | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:39:57 | User: Tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-24 19:42:12 | User: Xin chào | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:42:19 | User: Tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-24 19:42:29 | User: Tôi cần để chơi game | Bot: Tạm biệt! Hẹn gặp lại bạn sau! | Intent: goodbye
+2024-11-24 19:44:20 | User: Laptop nào tốt nhất? | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-24 19:46:08 | User: d | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:46:09 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:46:10 | User: V | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:46:11 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:46:18 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:46:18 | User: F | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:46:21 | User: fa | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:48:16 | User: Xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:48:24 | User: tôi muốn mua laptop | Bot: Hiện tại có nhiều mẫu laptop tốt, bạn có thể tham khảo các dòng của Dell, HP, Lenovo hoặc MacBook. | Intent: laptop_info
+2024-11-24 19:48:32 | User: macbook | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:48:35 | User: Chào | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:50:00 | User: sa | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:50:00 | User: F | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:50:01 | User: F | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:50:01 | User: Fg | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:50:02 | User: G | Bot: Xin chào! | Intent: greeting
+2024-11-24 19:56:39 | User: h | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 19:56:40 | User: H | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:56:41 | User: H | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:56:41 | User: H | Bot: Chào bạn! | Intent: greeting
+2024-11-24 19:56:42 | User: H | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:00:05 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:00:05 | User: A | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:00:05 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:00:06 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:00:09 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:01:55 | User: a | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:01:56 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:01:56 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:03:42 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:03:42 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:03:42 | User: A | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:03:43 | User: A | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:03:43 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:04:51 | User: a | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:04:52 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:04:52 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:04:52 | User: A | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:04:57 | User: a | Bot: Xin chào! | Intent: greeting
+2024-11-24 20:04:57 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 20:18:47 | User: tôi muốn mua laptop | Bot: Bạn cần laptop để làm việc hay chơi game? Tôi có thể tư vấn cụ thể hơn! | Intent: laptop_info
+2024-11-24 20:18:57 | User: làm việc | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:19:03 | User: gì | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:19:05 | User: Trời | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:19:08 | User: Chào | Bot: Chào bạn! | Intent: greeting
+2024-11-24 20:19:26 | User: "Cảm ơn bạn", | Bot: Bạn không cần phải cảm ơn đâu! | Intent: thanks
+2024-11-24 20:19:41 | User: "Ở đâu sửa laptop tốt?" | Bot: Tôi có thể giúp bạn tìm cửa hàng sửa chữa gần nhất. Bạn ở khu vực nào? | Intent: repair_service
+2024-11-24 20:20:05 | User: 1+1 bằng mấy | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 21:48:40 | User: Hello sốp | Bot: Xin chào! | Intent: greeting
+2024-11-24 21:49:14 | User: Mình cần tư vấn về loại máy tính có ở sốp ạ | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-24 21:52:32 | User: Mình đang cần máy cho công việc văn phòng, sốp có thể tư vấn các máy dao động từ khoảng dưới 30.000.000 VNĐ được hong | Bot: Chúng tôi thường xuyên có các chương trình khuyến mãi. Hãy theo dõi trang web để không bỏ lỡ! | Intent: promotions
+2024-11-24 21:53:17 | User: ok bai | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-24 21:53:39 | User: tui tạm biệt sốp rồi | Bot: Chúc bạn một ngày tốt lành! | Intent: goodbye
+2024-11-24 21:54:02 | User: tui đi sốp khác xem hàng đây | Bot: Tạm biệt! Hẹn gặp lại bạn sau! | Intent: goodbye
+2024-11-25 13:32:40 | User: helllo | Bot: Chào bạn! | Intent: greeting
+2024-11-25 13:32:44 | User: bạn đang làm gì | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 13:32:49 | User: Tôi muốn mua laptop | Bot: Laptop nào tốt nhất? | Intent: laptop_info
+2024-11-25 13:33:00 | User: Tôi cần làm laptop chơi game | Bot: Tôi có thể giúp bạn tìm cửa hàng sửa chữa gần nhất. Bạn ở khu vực nào? | Intent: repair_service
+2024-11-25 14:26:31 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:27:16 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:28:52 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:29:45 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:30:41 | User: hi | Bot: None | Intent: chaohoi
+2024-11-25 14:30:47 | User: hi | Bot: None | Intent: chaohoi
+2024-11-25 14:30:59 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:32:38 | User: Hello | Bot: None | Intent: chaohoi
+2024-11-25 14:34:09 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:38:02 | User: hi | Bot: Xin lỗi, tôi không hiểu câu hỏi của bạn. Bạn có thể diễn đạt lại không? | Intent: unknown
+2024-11-25 14:38:19 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:40:05 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 14:40:31 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 14:40:44 | User: hi | Bot: Xin chào! | Intent: greeting
+2024-11-25 14:40:51 | User: tôi muốn mua laptip | Bot: Laptop Dell, HP và MacBook là những lựa chọn tốt cho công việc văn phòng, còn laptop gaming có MSI và Alienware. | Intent: laptop_info
+2024-11-25 14:41:08 | User: chơi game | Bot: Xin chào! | Intent: greeting
+2024-11-25 14:41:11 | User: Game | Bot: Chào bạn! | Intent: greeting
+2024-11-25 14:41:14 | User: Game]\ | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 14:41:15 | User: G | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 14:41:15 | User: G | Bot: Xin chào! | Intent: greeting
+2024-11-25 14:41:15 | User: G | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 14:41:15 | User: Gg | Bot: Xin chào! | Intent: greeting
+2024-11-25 14:41:46 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 14:45:34 | User: hi | Bot: Xin chào! | Intent: greeting
+2024-11-25 14:45:35 | User: Haha | Bot: Chào bạn! | Intent: greeting
+2024-11-25 14:49:13 | User: hello | Bot: Xin chào! | Intent: greeting
+2024-11-25 15:06:06 | User: hello | Bot: None | Intent: chaohoi
+2024-11-25 15:06:46 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: greeting
+2024-11-25 15:08:07 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-25 15:08:20 | User: tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-25 15:08:36 | User: Tôi muốn chơi game | Bot: Laptop Asus ROG, Lenovo Legion, MSI Gaming là những lựa chọn phổ biến cho game thủ. | Intent: laptop_choigame
+2024-11-25 15:08:44 | User: Tầm giá 20triệu | Bot: Laptop Dell Inspiron có giá từ 10 triệu đồng, XPS từ 20 triệu đến 40 triệu, và Alienware có giá từ 40 triệu trở lên. | Intent: laptop_dell_gia
+2024-11-25 15:08:54 | User: Oke | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-25 15:08:57 | User: Xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-25 15:09:03 | User: văn phòng | Bot: Laptop Dell, HP, Lenovo là những lựa chọn phổ biến cho dân văn phòng. | Intent: laptop_vanphong
+2024-11-25 15:09:11 | User: Chỗ nào sửa laptop | Bot: Có rất nhiều dòng laptop tốt như Dell, HP, Lenovo, Asus và MSI, tùy thuộc vào nhu cầu sử dụng của bạn. | Intent: laptop
+2024-11-25 15:09:20 | User: Tôi muốn sửa laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-25 15:09:37 | User: MSI | Bot: MSI có các dòng laptop gaming với cấu hình cực kỳ mạnh mẽ, bao gồm CPU Intel Core i7, GPU NVIDIA RTX và RAM lên đến 32GB, đáp ứng tốt cho các game AAA. | Intent: laptop_msi_cauhinh
+2024-11-25 15:09:46 | User: Macbook | Bot: Xin chào! | Intent: chaohoi
+2024-11-25 15:09:54 | User: giới thiệu về dòng macbook | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-25 16:12:33 | User: hello | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-25 16:12:42 | User: 1+1 = mấy | Bot: Xin chào! | Intent: chaohoi
+2024-11-25 16:12:49 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-25 16:12:54 | User: Tôi cần bạn hỗ trợ | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-25 16:13:03 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-25 16:13:11 | User: Còn loại nào nữa không | Bot: Xin chào! | Intent: chaohoi
+2024-11-25 22:53:11 | User: Xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-25 23:02:10 | User: Xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-25 23:02:19 | User: Xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-25 23:02:26 | User: Xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-26 00:52:59 | User: hi | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-26 02:44:34 | User: Xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-26 02:44:43 | User: Chàooo | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-26 02:44:52 | User: Helllo | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-26 02:46:14 | User: Tôi bị sờ trét phải làm shao | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-26 17:37:08 | User: hello | Bot: Xin chào! | Intent: chaohoi
+2024-11-26 17:37:17 | User: tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-26 17:38:03 | User: Dell | Bot: Các dòng laptop Dell như XPS, Inspiron và Alienware đều đáng mua với cấu hình mạnh mẽ, thiết kế sang trọng và độ bền cao. | Intent: laptop_dell
+2024-11-26 17:38:14 | User: Cảm ơn bạn | Bot: Không có gì! | Intent: thanks
+2024-11-27 00:27:51 | User: hello | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 00:28:28 | User: hekkio | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 01:37:35 | User: 123 | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 01:37:45 | User: hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 01:39:33 | User: xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 01:39:47 | User: tôi muốn mua laptop | Bot: Có rất nhiều dòng laptop tốt như Dell, HP, Lenovo, Asus và MSI, tùy thuộc vào nhu cầu sử dụng của bạn. | Intent: laptop
+2024-11-27 01:42:50 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 01:53:12 | User: Xin chào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 01:53:43 | User: Xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 01:54:08 | User: xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 01:54:29 | User: hello | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 01:54:57 | User: hello | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 01:57:43 | User: Xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 01:57:52 | User: Tôi muốn mua laptop | Bot: Các dòng laptop như Dell, HP, Asus đều có thiết kế đẹp mắt, hiệu suất ổn định và phù hợp với công việc văn phòng hoặc học tập. | Intent: laptop
+2024-11-27 02:09:47 | User: Xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 02:09:57 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-27 02:12:39 | User: Dell | Bot: Laptop Dell có nhiều sự lựa chọn cho bạn từ dòng Inspiron cho công việc và học tập, đến Alienware và XPS dành cho game thủ và người dùng cao cấp. | Intent: laptop_dell
+2024-11-27 02:18:50 | User: Xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 02:18:56 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 02:27:23 | User: Hello | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 02:29:06 | User: hello | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 02:30:29 | User: xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 02:34:43 | User: Xi hcào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 02:48:13 | User: xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 02:53:32 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 02:55:28 | User: newuser | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 02:57:05 | User: hello | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 03:22:01 | User: xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 03:22:12 | User: tôi muốn mua laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-27 04:07:31 | User: hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 04:13:44 | User: xin chào HuuHao | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 04:33:22 | User: hello | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 04:33:31 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 06:08:35 | User: hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 06:49:37 | User: xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 06:59:38 | User: 123 | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 07:00:39 | User: 123 | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 07:03:59 | User: hello | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 07:05:34 | User: xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 07:05:42 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-27 07:09:36 | User: Xin hcào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:09:44 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 07:10:13 | User: xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:11:49 | User: xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:11:54 | User: Tôi muốn mua laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-27 07:12:14 | User: xin choà | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:12:19 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 07:24:10 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 07:24:14 | User: xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 07:24:19 | User: Tôi tên Hào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 07:25:09 | User: tôi tên Hào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 07:26:51 | User: xin chào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 07:26:58 | User: Tôi muốn mua laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-27 07:28:42 | User: hello | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:28:52 | User: hello | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 07:28:59 | User: Tôi muốn mua laptop | Bot: Các dòng laptop như Dell, HP, Asus đều có thiết kế đẹp mắt, hiệu suất ổn định và phù hợp với công việc văn phòng hoặc học tập. | Intent: laptop
+2024-11-27 07:30:06 | User: hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 07:30:33 | User: xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 07:30:37 | User: Tôi cần mua laptop | Bot: Các dòng laptop như Dell, HP, Asus đều có thiết kế đẹp mắt, hiệu suất ổn định và phù hợp với công việc văn phòng hoặc học tập. | Intent: laptop
+2024-11-27 07:30:39 | User: Dell | Bot: Laptop Dell nổi bật với các dòng như XPS, Inspiron, Alienware, và Latitude. Mỗi dòng đều có thiết kế đẹp, hiệu suất mạnh mẽ và độ bền cao. | Intent: laptop_dell
+2024-11-27 07:30:43 | User: XPS | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 07:30:46 | User: Dell | Bot: Các dòng laptop Dell như XPS, Inspiron và Alienware đều đáng mua với cấu hình mạnh mẽ, thiết kế sang trọng và độ bền cao. | Intent: laptop_dell
+2024-11-27 07:34:04 | User: xin chào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 07:34:14 | User: tôi muốn mua laptop | Bot: Có rất nhiều dòng laptop tốt như Dell, HP, Lenovo, Asus và MSI, tùy thuộc vào nhu cầu sử dụng của bạn. | Intent: laptop
+2024-11-27 07:39:02 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 07:48:27 | User: xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 07:48:30 | User: Tôi là Hào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 07:48:36 | User: Tôi muốn mua laptop | Bot: Các dòng laptop như Dell, HP, Asus đều có thiết kế đẹp mắt, hiệu suất ổn định và phù hợp với công việc văn phòng hoặc học tập. | Intent: laptop
+2024-11-27 07:54:48 | User: xin chào, tôii muốn mua laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-27 07:55:02 | User: xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 07:55:41 | User: tôi muốn mua laptop | Bot: Laptop tốt phụ thuộc vào mục đích sử dụng của bạn: nếu cần laptop văn phòng, Dell, HP, Lenovo là lựa chọn phù hợp, còn nếu chơi game, bạn có thể tham khảo các dòng như Asus ROG hoặc MSI. | Intent: laptop
+2024-11-27 08:03:12 | User: xin chào | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 08:03:21 | User: Tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 08:06:26 | User: xin chào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 08:06:42 | User: xin là xin chào | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 08:29:28 | User: hello | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 08:29:34 | User: Tôi muốn mua macbook | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 08:29:38 | User: chơi game | Bot: Laptop Asus ROG, Lenovo Legion, MSI Gaming là những lựa chọn phổ biến cho game thủ. | Intent: laptop_choigame
+2024-11-27 08:29:45 | User: Lenovo | Bot: Laptop Lenovo Legion là dòng laptop gaming mạnh mẽ với hiệu suất cao, thiết kế hiện đại và độ bền cao, phù hợp cho các game thủ và người dùng cần cấu hình mạnh. | Intent: laptop_lenovo_legion
+2024-11-27 08:29:56 | User: hello | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-27 08:34:49 | User: xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 08:34:56 | User: tôi muốn mua laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 12:25:59 | User: xin chào | Bot: Xin chào! | Intent: chaohoi
+2024-11-27 13:03:49 | User: A | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 13:03:52 | User: A | Bot: Chào mừng bạn đến với chatbot! | Intent: chaohoi
+2024-11-27 13:03:55 | User: A | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 13:40:02 | User: xin chào | Bot: Chào bạn! | Intent: chaohoi
+2024-11-27 13:40:08 | User: Tôi muốn laptop | Bot: Laptop chơi game thì nên chọn các dòng như Asus ROG, MSI, trong khi nếu bạn cần laptop văn phòng, các dòng Dell, HP, Lenovo sẽ là sự lựa chọn lý tưởng. | Intent: laptop
+2024-11-27 13:40:27 | User: xin choà | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-27 13:41:06 | User: xin chào | Bot: Chúng tôi luôn sẵn sàng hỗ trợ bạn! | Intent: chaohoi
+2024-11-27 13:41:18 | User: tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-28 00:21:32 | User: xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-28 00:21:40 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-28 00:21:57 | User: xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-28 03:48:03 | User: xin chào | Bot: Rất vui được gặp bạn! | Intent: chaohoi
+2024-11-28 03:48:08 | User: hello | Bot: Chào bạn, hôm nay bạn cần hỗ trợ gì? | Intent: chaohoi
+2024-11-28 03:48:16 | User: Tôi muốn mua laptop | Bot: Nếu bạn cần laptop nhẹ nhàng và hiệu năng ổn định cho công việc hàng ngày, các dòng như Dell Inspiron, HP Pavilion hay Lenovo IdeaPad sẽ là những lựa chọn hợp lý. | Intent: laptop
+2024-11-28 03:48:18 | User: Dell | Bot: Laptop Dell có nhiều sự lựa chọn cho bạn từ dòng Inspiron cho công việc và học tập, đến Alienware và XPS dành cho game thủ và người dùng cao cấp. | Intent: laptop_dell
+2024-11-28 18:31:30 | User: hello | Bot: Chào bạn! | Intent: chaohoi

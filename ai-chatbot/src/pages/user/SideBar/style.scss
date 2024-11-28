@@ -1,0 +1,52 @@
+.sidebar {
+  width: 100%;
+  height: fit-content;
+  background-color: #f4f4f4;
+  padding: 20px 0;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.create-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  padding: 0 10px;
+  cursor: pointer;
+
+  svg {
+    padding: 0 20px;
+    fill: #4e04b6;
+    font-size: 28px;
+    &:hover {
+      fill: #320275;
+    }
+  }
+}
+
+.conversations-list {
+  margin-top: 10px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.conversation-item {
+  padding: 12px;
+  background-color: white;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #e9ecef;
+  }
+}
+
+.conversation-item.selected {
+  background-color: #9953fc;
+  color: white;
+}

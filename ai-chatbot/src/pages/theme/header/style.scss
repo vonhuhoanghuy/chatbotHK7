@@ -1,0 +1,28 @@
+.chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #6200ea;
+  color: #fff;
+
+  .chat-title {
+    font-size: 24px;
+  }
+
+  .chat-auth-buttons {
+    button {
+      margin-left: 10px;
+      padding: 8px 12px;
+      background-color: #fff;
+      color: #6200ea;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #f1f1f1;
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.container {
+  max-width: 1220px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+  margin: auto;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -8px;
+  margin-left: -8px;
+}
+.col-lg-3 {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+.col-lg-9 {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
